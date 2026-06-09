@@ -1,10 +1,10 @@
 # pyranometer-project
 Pyranometer-Based Solar Radiation Measurement System
-Overview
 
+Overview:-
 A solar radiation monitoring system developed using ESP32, a mini solar panel, and an OLED display. The system measures global solar irradiance, including both direct and diffuse solar radiation, and displays real-time readings.
 
-Components
+Components:-
 ESP32 WROOM
 Mini Epoxy Solar Panel
 OLED Display (SSD1306)
